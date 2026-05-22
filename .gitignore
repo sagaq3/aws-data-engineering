@@ -4,3 +4,7 @@ venv/
 .env
 .vscode/
 .idea/  
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
